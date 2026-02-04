@@ -4,6 +4,7 @@
     // File Layout
     "rootDir": "./",
     "outDir": "./",
+    "allowJs": true,
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module

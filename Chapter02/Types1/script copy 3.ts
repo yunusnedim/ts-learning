@@ -7,6 +7,9 @@ const obj = {
 // console.log(obj);
 
 function printUser(user: { fullname: string; age: number }) {
+  // String vs string
+  // Number vs number
+
   console.log(user.fullname);
 }
 
